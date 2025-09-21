@@ -1,4 +1,4 @@
-# 🛋️ Furniture Management System (MERN) 🏡  
+# 🛋️ Furniture Management System With AI Assistance 🏡  
 
 A full-stack **Furniture Management System** built with **MERN (MongoDB, Express.js, React, Node.js)**. Users can browse, search, and purchase furniture, while admins manage products and orders.  
 
